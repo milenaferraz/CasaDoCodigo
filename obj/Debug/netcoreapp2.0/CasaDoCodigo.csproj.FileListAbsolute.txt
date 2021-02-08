@@ -1,0 +1,15 @@
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
+C:\Users\milenaf\Desktop\Exercícios\MVC - Alura\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
